@@ -1,5 +1,5 @@
 This is EasyDomainScanner tool which will help  you to find hidden domains for testing purpose.
-Made By Eshan Sharma//Mahir Khurana//Yash Kumar.
+Made By Eshan Sharma // Utkarsh Roy.
 
 Please Read Installation instruction and usage also. 
 
